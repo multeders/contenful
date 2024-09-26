@@ -1,3 +1,8 @@
+## How to use
+
+You need Pixabay API key to make this app work. Otherwise App cant fetch images from Pixabay
+
+Here is the link of the  [App](https://app.contentful.com/deeplink?link=apps&id=5Adcsc8rs5wWUhi0MbnE0C). 
 
 
 ## Available Scripts
@@ -19,9 +24,3 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 The build is minified and the filenames include the hashes.
 Your app is ready to be deployed!
-
-## How to use
-
-You need Pixabay API key to make this app work. Otherwise App cant fetch images from Pixabay
-
-Here is the link of the  [App](https://app.contentful.com/deeplink?link=apps&id=5Adcsc8rs5wWUhi0MbnE0C). 
